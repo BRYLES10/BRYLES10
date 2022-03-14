@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BRYLES10
 - 👀 I’m interested in: anything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: how to develop stuff
+- 💞️ I’m looking to collaborate on: idk I have trust issues
 - 📫 How to reach me: https://m.youtube.com/channel/UClR5T0P7hXxHJGDBdtgmAFg
 
 <!---
